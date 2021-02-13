@@ -1,0 +1,26 @@
+<annotation>
+	<folder>noraccoon</folder>
+	<filename>maxresdefault.jpg</filename>
+	<path>C:\Users\julie\Desktop\Microsoft\multiclass_object_detection\dataset\noraccoon\maxresdefault.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sign</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1128</xmin>
+			<ymin>44</ymin>
+			<xmax>1198</xmax>
+			<ymax>115</ymax>
+		</bndbox>
+	</object>
+</annotation>
