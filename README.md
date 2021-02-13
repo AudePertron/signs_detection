@@ -8,7 +8,7 @@ To do that, we first work with the dataset to create a new class which was not i
 The final dataset is available at this url : [dataset](https://we.tl/t-9Hn9f9SfZC)
 
 At the beginning, the files contained 35000 train images and 12000 test images. There was also a csv file with the path of the data, the bounding box ( that we will not use ine this project ) and the class label of the image. 
-The first step was to create a class with no sign in it. To do so, we take 6 images containing 1 sign from google image. Then whe label it with LabelImg ( available ![here](https://github.com/tzutalin/labelImg) ) to get the coordinates of the box where the sign is. When we ge those coordonates, we put it in a csv file to use it in the first script of the project.
+The first step was to create a class with no sign in it. To do so, we take 6 images containing 1 sign from google image. Then whe label it with LabelImg ( available [here](https://github.com/tzutalin/labelImg) ) to get the coordinates of the box where the sign is. When we ge those coordonates, we put it in a csv file to use it in the first script of the project.
 
 ## no_sign_script
 
